@@ -25,7 +25,7 @@
     "@aws-accelerator/accelerator": "^0.0.0",
     "@aws-cdk-extensions/cdk-extensions": "^0.0.0",
     "aws-cdk": "2.158.0",
-    "aws-cdk-lib": "2.158.0",
+    "aws-cdk-lib": "2.186.0",
     "cdk-nag": "2.5.2"
   },
   "devDependencies": {
@@ -33,7 +33,7 @@
     "@types/jest": "29.5.12",
     "@types/node": "18.14.0",
     "aws-cdk": "2.158.0",
-    "aws-cdk-lib": "2.158.0",
+    "aws-cdk-lib": "2.186.0",
     "cfn-response": "1.0.1",
     "constructs": "10.0.12",
     "eslint": "8.34.0",
